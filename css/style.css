@@ -72,3 +72,15 @@ body {
 .navbar img {
     margin-left: 3rem;
 }
+
+.menu-items {
+    order: 2;
+    display: flex;
+    margin-right: 3rem;
+}
+
+.menu-items li {
+    list-style: none;
+    margin-left: 1.5rem;
+    font-size: 1.2rem;
+}
