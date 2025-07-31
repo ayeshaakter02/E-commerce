@@ -91,3 +91,18 @@ body {
     font-size: 18px;
     position: relative;
 }
+
+.navbar-container ul a:after {
+    content: "";
+    position: absolute;
+    background: var(--primary-color);
+    height: 3px;
+    width: 0;
+    left: 0;
+    bottom: -10px;
+    transition: 0.3s;
+}
+
+.navbar-container ul a:hover:after {
+    width: 100%;
+}
