@@ -61,3 +61,14 @@ body {
     color: var(--black);
     z-index: 100;
 }
+
+.navbar-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 64px;
+}
+
+.navbar img {
+    margin-left: 3rem;
+}
