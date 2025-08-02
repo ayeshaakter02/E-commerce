@@ -191,7 +191,7 @@ body {
         right: 15px;
         margin-top: 8px;
     }
-    /* .navbar-container input[type="checkbox"]:checked~.menu-items {
+    .navbar-container input[type="checkbox"]:checked~.menu-items {
         transform: translateX(0);
     }
     .navbar-container input[type="checkbox"]:checked~.hamburger-lines .line1 {
@@ -200,7 +200,7 @@ body {
     .navbar-container input[type="checkbox"]:checked~.hamburger-lines .line2 {
         transform: scaleY(0);
     }
-    .navbar-container input[type="checkbox"]:checked~.hamburger-lines .line3 {
+    /* .navbar-container input[type="checkbox"]:checked~.hamburger-lines .line3 {
         transform: rotate(-45deg);
     }
     .navbar-container input[type="checkbox"]:checked~.home_page img {
