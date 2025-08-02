@@ -182,7 +182,7 @@ body {
     .navbar img {
         margin: 0;
     }
-    /* .navbar .menu-items li:nth-child(1) {
+    .navbar .menu-items li:nth-child(1) {
         margin-top: 1.5rem;
     }
     .navbar-container .logo img {
@@ -191,7 +191,7 @@ body {
         right: 15px;
         margin-top: 8px;
     }
-    .navbar-container input[type="checkbox"]:checked~.menu-items {
+    /* .navbar-container input[type="checkbox"]:checked~.menu-items {
         transform: translateX(0);
     }
     .navbar-container input[type="checkbox"]:checked~.hamburger-lines .line1 {
