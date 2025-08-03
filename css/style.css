@@ -208,3 +208,9 @@ body {
         background: #fff;
     }
 }
+
+@media (max-width: 500px) {
+    .navbar-container input[type="checkbox"]:checked~.navbar-container img {
+        display: none;
+    }
+}
