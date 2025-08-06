@@ -499,3 +499,23 @@ body {
     z-index: 5;
     opacity: 0;
 }
+
+.img-content3 p {
+    font-size: 1.6rem;
+}
+
+.img-content3 a {
+    text-decoration: none;
+    font-size: 1.2rem;
+    color: #fff;
+    transition: 0.3s;
+}
+
+.img-content3 button {
+    border: none;
+    background-color: var(--primary-color);
+    color: var(--white);
+    border-radius: 10px;
+    padding: 10px;
+}
+
