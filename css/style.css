@@ -974,3 +974,32 @@ footer {
     justify-content: space-between;
     align-items: center;
 }
+
+.footer-container .content_4 .bx {
+    color: var(--white);
+}
+
+.f-design {
+    width: 100%;
+    color: var(--white);
+    text-align: center;
+}
+
+.f-design .f-design-txt {
+    border-top: 1px solid var(--grey);
+    padding: 25px 0;
+    font-size: 14px;
+    color: var(--grey);
+}
+
+
+/* //........ contact ...... // */
+
+.contact {
+    margin-top: 45px;
+}
+
+iframe {
+    height: 72vh;
+    width: 100%;
+}
