@@ -1035,3 +1035,39 @@ iframe {
     color: var(--light-black);
     font-size: 14px;
 }
+
+.form .form-txt h3 {
+    font-size: 22px;
+    font-weight: 600;
+    margin: 15px 0;
+    color: var(--light-black);
+}
+
+.form .form-txt p {
+    color: var(--light-black);
+    font-size: 14px;
+}
+
+.form .form-details {
+    flex-basis: 48%;
+}
+
+.form .form-details input[type="text"],
+.form .form-details input[type="email"] {
+    padding: 15px 20px;
+    color: var(--grey);
+    outline: none;
+    border: 1px solid var(--grey);
+    margin: 35px 15px;
+    font-size: 14px;
+}
+
+.form .form-details textarea {
+    padding: 15px 20px;
+    margin: 0 15px;
+    color: var(--grey);
+    outline: none;
+    border: 1px solid var(--grey);
+    font-size: 14px;
+    resize: none;
+}
